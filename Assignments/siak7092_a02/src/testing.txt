@@ -1,0 +1,123 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Mwilu Siakachoma
+ID:      169107092
+Email:   siak7092@mylaurier.ca
+Version: 2024-09-27
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Enter the total sales: $0
+Projected Tax Report
+--------------------------
+Total Sales:    $ 0.00
+Annual Tax:     % 18.50
+--------------------------
+Tax             $ 0.00
+
+Enter the total sales: $1000
+Projected Tax Report
+--------------------------
+Total Sales:    $ 1,000.00
+Annual Tax:     % 18.50
+--------------------------
+Tax             $ 185.00
+
+Enter the total sales: $2
+Projected Tax Report
+--------------------------
+Total Sales:    $ 2.00
+Annual Tax:     % 18.50
+--------------------------
+Tax             $ 0.37
+
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Enter a positive digit number: 92
+The difference of the digits of 92 is 7
+
+Enter a positive digit number: 75
+The difference of the digits of 75 is 2
+
+Enter a positive digit number: 54
+The difference of the digits of 54 is 1
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Enter a date in the format YYYYMMDD: 20050207
+The reformatted date: 2005/02/07
+
+Enter a date in the format YYYYMMDD: 19750103
+The reformatted date: 1975/01/03
+
+Enter a date in the format YYYYMMDD: 20000121
+The reformatted date: 2000/01/21
+
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Number of flyers: 1440
+Number of delivery people: 12
+Flyers per delivery person:  120
+Flyers left over:  0
+
+Number of flyers: 2000
+Number of delivery people: 6
+Flyers per delivery person:  333
+Flyers left over:  2
+
+Number of flyers: 0
+Number of delivery people: 5
+Flyers per delivery person:  0
+Flyers left over:  0
+
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Foundation length (m): 3
+Foundation width (m): 2
+Foundation height (m): 7
+Wall height (m): 2
+Cost of concrete ($/m^3): 20
+Cost of bricks ($/m^2): 100
+Concrete needed for foundation (m^3): 42.00
+Cost of concrete: $840.00
+Bricks needed for walls (m^2):  20.00
+Cost of bricks: $2,000.00
+Total cost: $2,840.00
+
+Foundation length (m): 0
+Foundation width (m): 0
+Foundation height (m): 0
+Wall height (m): 0
+Cost of concrete ($/m^3): 200
+Cost of bricks ($/m^2): 40
+Concrete needed for foundation (m^3): 0.00
+Cost of concrete: $0.00
+Bricks needed for walls (m^2):  0.00
+Cost of bricks: $0.00
+Total cost: $0.00
+
+Foundation length (m): 20
+Foundation width (m): 5
+Foundation height (m): 0.8
+Wall height (m): 6
+Cost of concrete ($/m^3): 100
+Cost of bricks ($/m^2): 24
+Concrete needed for foundation (m^3): 80.00
+Cost of concrete: $8,000.00
+Bricks needed for walls (m^2):  300.00
+Cost of bricks: $7,200.00
+Total cost: $15,200.00
+-------------------------------------------------------
+t06
+-------------------------------------------------------
+
+-------------------------------------------------------
+t07
+-------------------------------------------------------

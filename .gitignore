@@ -1,0 +1,8 @@
+# Eclipse / PyDev files
+.project
+.pydevproject
+.metadata
+*.pyc
+__pycache__/
+.settings/
+org.eclipse.core.resources.prefs

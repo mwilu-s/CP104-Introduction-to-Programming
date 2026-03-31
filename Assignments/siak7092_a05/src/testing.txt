@@ -1,0 +1,100 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Mwilu Siakachoma
+ID:      169107092
+Email:   siak7092@mylaurier.ca
+Version: 2024-10-25
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Enter a positive number: 7
+5040
+
+Enter a positive number: 4
+24
+
+Enter a positive number: 0
+1
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Enter the amount of calories burned per minute: 4.1
+Enter the number of minutes on the treadmill: 21
+ 5 20.5
+10 41.0
+15 61.5
+20 82.0
+
+Enter the amount of calories burned per minute: 2
+Enter the number of minutes on the treadmill: 10
+ 5 10.0
+10 20.0
+
+Enter the amount of calories burned per minute: 3
+Enter the number of minutes on the treadmill: 17
+ 5 15.0
+10 30.0
+15 45.0
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Enter the number of rows: 4
+   #   
+  # #  
+ #   # 
+#     #
+
+Enter the number of rows: 2
+ # 
+# #
+
+Enter the number of rows: 0
+
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Enter a starting value: 2
+Enter an ending value: 4
+2|   4   6   8
+3|   6   9  12
+4|   8  12  16
+
+Enter a starting value: 1
+Enter an ending value: 2
+1|   1   2
+2|   2   4
+
+Enter a starting value: 0
+Enter an ending value: 3
+0|   0   0   0   0
+1|   0   1   2   3
+2|   0   2   4   6
+3|   0   3   6   9
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Enter starting number: 1
+Enter incrementing number: 2
+Enter counting number: 20
+400
+
+Enter starting number: 2
+Enter incrementing number: 2
+Enter counting number: 5
+20
+
+Enter starting number: 4
+Enter incrementing number: 3
+Enter counting number: 10
+144
+-------------------------------------------------------
+t06
+-------------------------------------------------------
+
+-------------------------------------------------------
+t07
+-------------------------------------------------------

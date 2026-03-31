@@ -1,0 +1,81 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Mwilu Siakachoma
+ID:      169107092
+Email:   siak7092@mylaurier.ca
+Version: 2024-10-10
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Enter a number between 1 and 7: 0
+Error
+
+Enter a number between 1 and 7: 5
+Thursday
+
+Enter a number between 1 and 7: 1
+Sunday
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Enter an air quality index value: 21
+Good
+
+Enter an air quality index value: -9
+Error
+
+Enter an air quality index value: 2000
+Hazardous
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Enter a number: 9
+Enter a second number: 9
+Enter a  third number: 9
+9.0
+
+Enter a number: 6
+Enter a second number: 3
+Enter a  third number: 0
+4.5
+
+Enter a number: 4
+Enter a second number: 4
+Enter a  third number: 1
+4.0
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Enter one of red, green or blue: red
+Enter one of red, green or blue: red
+red
+
+Enter one of red, green or blue: green
+Enter one of red, green or blue: red
+yellow
+
+Enter one of red, green or blue: yellow
+Enter one of red, green or blue: green
+Error
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Enter a number: 20
+Hoo
+
+Enter a number: -1
+Zip
+
+Enter a number: -28
+Hoo Rah
+-------------------------------------------------------
+t06
+-------------------------------------------------------
+
+-------------------------------------------------------
+t07
+-------------------------------------------------------

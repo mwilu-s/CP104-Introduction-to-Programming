@@ -1,0 +1,56 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Mwilu Siakachoma
+ID:      169107092
+Email:   siak7092@mylaurier.ca
+Version: 2024-10-30
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Enter an upper bound number: 2
+Guess a number between 1 and 2: 2
+Too high, try again.
+Guess a number between 1 and 2: 1
+Congratulations - good guess!
+You made 2 guesses.
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Enter a target number: 5
+8
+
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Enter a target number: 3
+5
+-------------------------------------------------------
+t08
+-------------------------------------------------------
+Enter amount available: $200
+Enter an expense (0 to quit): 24
+Enter an expense (0 to quit): 10
+Enter an expense (0 to quit): 0
+34.00, 166.00, Surplus
+-------------------------------------------------------
+t10
+-------------------------------------------------------
+Employee ID: 7
+Hourly wage rate: 65
+Hourly wage rate: 12
+Net payment for employee 7: $751.73
+Employee ID: 8
+Hourly wage rate: 24
+Hourly wage rate: 9
+Net payment for employee 8: $208.17
+Employee ID: 88
+Hourly wage rate: 90
+Hourly wage rate: 0
+Net payment for employee 88: $0.00
+Employee ID: 0
+959.89, 319.96
+-------------------------------------------------------

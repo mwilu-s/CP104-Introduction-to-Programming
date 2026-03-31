@@ -1,0 +1,77 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Mwilu Siakachoma
+ID:      169107092
+Email:   siak7092@mylaurier.ca
+Version: 2024-11-15
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Enter a sentence: HappyChappy
+Happy chappy
+
+Enter a sentence: StopAndSmellTheRoses.
+Stop and smell the roses.
+
+Enter a sentence: TigersAreFriendlyMan.
+Tigers are friendly man.
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Enter a word: beach
+beaches
+
+Enter a word: pony
+ponies
+
+Enter a word: array
+arrays
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Enter a word: i
+Enter another word: p
+
+Enter a word: happy
+Enter another word: chappy
+happy
+
+Enter a word: wide
+Enter another word: worldwide
+wide
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Enter isbn: 123-45689-12-0
+False
+
+Enter isbn: 0
+False
+
+Enter isbn: 978-233-67598-8-0
+True
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Enter a word (enter '' to stop): umbrella
+Enter a word (enter '' to stop): amber
+Enter a word (enter '' to stop): rain
+Enter a word (enter '' to stop): white
+Enter a word (enter '' to stop): 
+False
+
+Enter a word (enter '' to stop): bro
+Enter a word (enter '' to stop): dog
+Enter a word (enter '' to stop): 
+False
+
+Enter a word (enter '' to stop): happy
+Enter a word (enter '' to stop): yams
+Enter a word (enter '' to stop): sun
+Enter a word (enter '' to stop): 
+True
+-------------------------------------------------------

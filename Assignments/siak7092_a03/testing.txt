@@ -1,0 +1,89 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Mwilu Siakachoma
+ID:      169107092
+Email:   siak7092@mylaurier.ca
+Version: 2024-10-04
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Enter the square feet: 0
+0.0
+
+Enter the square feet: 300000
+6.887052341597796
+
+Enter the square feet: 12
+0.0002754820936639118
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Enter the width of the lawn: 10
+Enter the length of the lawn: 5
+Enter the speed: 2
+25.0
+
+Enter the width of the lawn: 4
+Enter the length of the lawn: 2
+Enter the speed: 0.4
+20.0
+
+Enter the width of the lawn: 0
+Enter the length of the lawn: 40
+Enter the speed: 100
+0.0
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Enter a date in the format YYYYMMDD: 20050207
+2005, 02, 07
+
+Enter a date in the format YYYYMMDD: 19040417
+1904, 04, 17
+
+Enter a date in the format YYYYMMDD: 20131104
+2013, 11, 04
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Enter the first numerator: 4
+Enter the first denominator: 3
+Enter the second numerator: 2
+Enter the second denominator: 1
+8, 3, 2.6666666666666665
+
+Enter the first numerator: 0
+Enter the first denominator: 4
+Enter the second numerator: 0
+Enter the second denominator: 3
+0, 12, 0.0
+
+Enter the first numerator: 5
+Enter the first denominator: 5
+Enter the second numerator: 5
+Enter the second denominator: 5
+25, 25, 1.0
+
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Enter the time taken for the object to fall: 2
+19.6
+
+Enter the time taken for the object to fall: 900
+3969000.0000000005
+
+Enter the time taken for the object to fall: 0
+0.0
+
+-------------------------------------------------------
+t06
+-------------------------------------------------------
+
+-------------------------------------------------------
+t07
+-------------------------------------------------------

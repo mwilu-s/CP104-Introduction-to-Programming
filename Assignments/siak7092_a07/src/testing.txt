@@ -1,0 +1,100 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Mwilu Siakachoma
+ID:      169107092
+Email:   siak7092@mylaurier.ca
+Version: 2024-11-07
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Enter a number: 2
+[1]
+
+Enter a number: 8
+[1, 2, 4]
+
+Enter a number: 100
+[1, 2, 4, 5, 10, 20, 25, 50]
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Enter a positive number: -9
+Enter a positive number: 5
+Enter a positive number: 7
+Enter a positive number: 3
+Enter a positive number: -2
+Enter a positive number: 0
+[5, 7, 3]
+
+Enter a positive number: 0
+[]
+
+Enter a positive number: 1
+Enter a positive number: 2
+Enter a positive number: 0
+[1, 2]
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Enter a positive number: 5
+Enter a positive number: 5
+Enter a positive number: 6
+Enter a positive number: 3
+Enter a positive number: 4
+Enter a positive number: 7
+Enter a positive number: 8
+Enter a positive number: 2
+Enter a positive number: 0
+Enter a target number: 5
+[0, 1]
+
+Enter a positive number: 8
+Enter a positive number: 0
+Enter a target number: 1
+[]
+
+Enter a positive number: 3
+Enter a positive number: 0
+Enter a target number: 3
+[0]
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Enter a positive number: 1
+Enter a positive number: 2
+Enter a positive number: 0
+Enter a positive number: 2
+Enter a positive number: 0
+
+Enter a positive number: 2
+Enter a positive number: 0
+Enter a positive number: 0
+
+Enter a positive number: 5
+Enter a positive number: 0
+Enter a positive number: 3
+Enter a positive number: 0
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Enter a positive number: 1
+Enter a positive number: 2
+Enter a positive number: 3
+Enter a positive number: 4
+Enter a positive number: 0
+True, -1
+
+Enter a positive number: 1
+Enter a positive number: 3
+Enter a positive number: 2
+Enter a positive number: 0
+False, 1
+
+Enter a positive number: 9
+Enter a positive number: 0
+True, -1
+-------------------------------------------------------

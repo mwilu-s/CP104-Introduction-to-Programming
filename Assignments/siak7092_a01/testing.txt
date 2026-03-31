@@ -1,0 +1,87 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Mwilu Siakachoma
+ID:      169107092
+Email:   siak7092@mylaurier.ca
+Version: 2024-09-20
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+What is a "program"?
+A program is a sequence of instructions that specifies how to perform a computation. The details look different in different languages, but a few basic instructions appear in just about every language: input: Get data from the keyboard, a file, or some other device. output: Display data on the screen or send data to a file or other device. math: Perform basic mathematical operations like addition and multiplication. conditional execution: Check for certain conditions and execute the appropriate code. repetition: Perform some action repeatedly, usually with some variation.
+Believe it or not, that's pretty much all there is to it.
+"You have enemies? Good. That means you've stood up for something, sometime in your life." Winston Churchill
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+What is your age? 19 
+What is your favourite band? Arctic Monkeys
+I am 19 years old and Arctic Monkeys is my favourite band.
+
+What is your age? 50
+What is your favourite band? The Jackson 5
+I am 50 years old and The Jackson 5 is my favourite band.
+
+What is your age? 24
+What is your favourite band? The Neigbourhood
+I am 24 years old and The Neigbourhood is my favourite band.
+
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Length in miles: 20
+Length in km: 32.2
+
+Length in miles: 12
+Length in km: 19.32
+
+Length in miles: 0
+Length in km: 0.0
+
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Cost of 1 Dosa: $2
+Number of dosa: 4
+Total cost of 4 dosas: $ 8.0
+
+Cost of 1 Dosa: $1.5
+Number of dosa: 7
+Total cost of 7 dosas: $ 10.5
+
+Cost of 1 Dosa: $20
+Number of dosa: 0
+Total cost of 0 dosas: $ 0.0
+
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Principal: $300
+Interest (%): 3
+Number of years: 5
+Number of times interest compounded per year: 6
+Balance: $ 323.33498162118855
+
+Principal: $100
+Interest (%): 1
+Number of years: 1
+Number of times interest compounded per year: 12
+Balance: $ 101.0045960887181
+
+Principal: $400000
+Interest (%): 30
+Number of years: 20
+Number of times interest compounded per year: 4
+Balance: $ 2883827.1264917776
+
+-------------------------------------------------------
+t06
+-------------------------------------------------------
+
+-------------------------------------------------------
+t07
+-------------------------------------------------------
